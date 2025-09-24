@@ -73,7 +73,7 @@
         start: "July 2025",
         end: "September 2025",
         description:
-          "Worked as a Python intern at MotionCut, where I developed automation scripts to streamline data processing workflows. Built modular Python utilities using pandas, requests, and os to handle real-world tasks. Contributed to collaborative projects via Git and implemented robust logging and error handling. Explored API integrations and built CLI tools for internal use.",
+          "Worked on developing and maintaining end-to-end web applications by contributing to both frontend (React.js, HTML, CSS, JavaScript) and backend (Node.js/Express.js, Flask, PostgreSQL/MySQL) components. Gained hands-on experience in building REST APIs, integrating databases, debugging, and deploying applications while following agile practices and version control (Git/GitHub).",
       },
       {
         company: "Motion Cut",
