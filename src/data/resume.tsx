@@ -10,9 +10,9 @@
     description:
       "engineer. builder. lifelong learner.",
     summary:
-      "tldr; learnt by hacking around on the internet.\n\n curious about how code, systems, and ideas work under the hood.\n\n love building things that feel like magic. dive deep into tech. also: football and books that shift your perspective.",
+      "tldr; learnt by hacking around on the internet.\n\n curious about how code, systems, and ideas work under the hood.\n\n love building things that feel like magic. dive deep into tech. also: loves football and books that shift your perspective.",
     avatarUrl: "/me.jpg",
-    resumeUrl: "https://drive.google.com/file/d/1zUdtt1JPn4aGTT8VH836LhNMW9uRSnL4/view?usp=drive_link",
+    resumeUrl: "https://drive.google.com/file/d/1di3R_qfg05yEgXiDcIZVai5aM_mqG1JM/view?usp=sharing",
     skills: [
       "Python",
       "TypeScript",
@@ -63,6 +63,18 @@
     },
 
     work: [
+      {
+        company: "Hanumatrix",
+        badges: [],
+        location: "Remote",
+        title: "Full Stack Developer Intern",
+        logoUrl: "/hanumatrix.jfif",
+        href: "",
+        start: "July 2025",
+        end: "September 2025",
+        description:
+          "Worked as a Python intern at MotionCut, where I developed automation scripts to streamline data processing workflows. Built modular Python utilities using pandas, requests, and os to handle real-world tasks. Contributed to collaborative projects via Git and implemented robust logging and error handling. Explored API integrations and built CLI tools for internal use.",
+      },
       {
         company: "Motion Cut",
         badges: [],
