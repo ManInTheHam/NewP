@@ -12,7 +12,7 @@
     summary:
       "tldr; learnt by hacking around on the internet.\n\n curious about how code, systems, and ideas work under the hood.\n\n love building things that feel like magic. dive deep into tech. also: loves football and books that shift your perspective.",
     avatarUrl: "/me.jpg",
-    resumeUrl: "https://drive.google.com/file/d/1di3R_qfg05yEgXiDcIZVai5aM_mqG1JM/view?usp=sharing",
+    resumeUrl: "https://drive.google.com/file/d/1e52p6RvVtASj8YmsabRGokpvBR_05wci/view?usp=drive_link",
     skills: [
       "Python",
       "TypeScript",
